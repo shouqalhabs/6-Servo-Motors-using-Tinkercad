@@ -95,7 +95,7 @@ This algorithm outlines how a humanoid robot can walk using 6 servo motors—3 p
 
 ## Preview
 
-![tinkercad design]()
+![tinkercad design](https://github.com/shouqalhabs/6-Servo-Motors-using-Tinkercad/blob/main/6%20servo%20motors.png?raw=true)
 
 ---
 
